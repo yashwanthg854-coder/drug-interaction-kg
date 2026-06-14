@@ -1,0 +1,16 @@
+food_id,food_name,category,key_compound
+F001,Grapefruit,Fruit,Furanocoumarins
+F002,Spinach,Leafy green,Vitamin K
+F003,Kale,Leafy green,Vitamin K
+F004,Broccoli,Vegetable,Vitamin K
+F005,Dairy products,Dairy,Calcium
+F006,Milk,Dairy,Calcium
+F007,Alcohol,Beverage,Ethanol
+F008,Bananas,Fruit,Potassium
+F009,Coffee,Beverage,Caffeine
+F010,Licorice,Confectionery,Glycyrrhizin
+F011,Cranberry juice,Beverage,Salicylic acid compounds
+F012,Tyramine-rich foods,Aged/fermented foods,Tyramine
+F013,Green tea,Beverage,Vitamin K and Catechins
+F014,Salt-rich foods,Processed foods,Sodium
+F015,High-fiber foods,Whole grains,Fiber

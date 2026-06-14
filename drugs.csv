@@ -1,0 +1,16 @@
+drug_id,drug_name,category,common_use
+D001,Warfarin,Anticoagulant,Blood thinner to prevent clots
+D002,Metformin,Antidiabetic,Type 2 diabetes management
+D003,Ibuprofen,NSAID,Pain relief and anti-inflammatory
+D004,Aspirin,Antiplatelet,Pain relief and blood thinning
+D005,Simvastatin,Statin,Cholesterol management
+D006,Levothyroxine,Thyroid hormone,Hypothyroidism treatment
+D007,Lisinopril,ACE inhibitor,Blood pressure management
+D008,Omeprazole,Proton pump inhibitor,Acid reflux treatment
+D009,Amoxicillin,Antibiotic,Bacterial infection treatment
+D010,Ciprofloxacin,Antibiotic,Bacterial infection treatment
+D011,Digoxin,Cardiac glycoside,Heart failure management
+D012,Spironolactone,Diuretic,Fluid retention and blood pressure
+D013,Tetracycline,Antibiotic,Bacterial infection treatment
+D014,Sertraline,SSRI antidepressant,Depression and anxiety
+D015,Phenytoin,Anticonvulsant,Seizure control
